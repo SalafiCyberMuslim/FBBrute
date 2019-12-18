@@ -12,9 +12,9 @@ __banner__ = """
        +=======================================+
        |..........Facebook Cracker v 1.........|
        +---------------------------------------+
-       |#Author: DedSecTL <dtlily>             |
-       |#Contact: Telegram @dtlily             |
-       |#Date: Fri Feb 8 10:15:49 2019         |
+       |#Author: MR.3             |
+       |#WA:  085781291915            |
+       |#Date:Rabu 18 Des 2019        |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
        |Won't made you the coder ^_^ !!!       |
