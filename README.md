@@ -1,4 +1,4 @@
-<img src=".img.png">
+
 
 # FBBrute
 FBBrute is a Facebook brute force tool, launches an attack by guessing the target password with a set of wordlist provided.  
@@ -8,13 +8,7 @@ you only need to create one file with a collection of passwords then enter the u
 ### Installation and Using FBBrute
 ```bash
 $ apt-get install python git
-$ git clone https://github.com/Gameye98/FBBrute
+$ git clone https://github.com/SalafiCyberMuslim/FBBrute
 $ cd FBBrute
-$ python fbbrute.py
+$ python bontotbrute.py
 ```
-
-### Contact me
-Line      : dtl.lily  
-Telegram  : @dtlily  
-Facebook  : cgi.izo  
-Instagram : @dtlily  
